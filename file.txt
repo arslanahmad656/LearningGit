@@ -1,2 +1,2 @@
 this is some content in the file
-now changing this file from cloned fepo
+now changing this file from cloned repo

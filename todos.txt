@@ -1,0 +1,3 @@
+ - TODOs for Dev:
+   - Improve the index page by adding an animation
+   - Implement the 400 page

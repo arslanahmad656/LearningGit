@@ -1,2 +1,3 @@
 Added first line to the master file.
 Added second line to the master file.
+Added third line to the master file.

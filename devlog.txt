@@ -1,6 +1,7 @@
 ------------------------
 RESERVED FOR DEV BRANCH
 ------------------------
+ - Improve index page
 
 
 
